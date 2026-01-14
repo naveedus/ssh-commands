@@ -26,7 +26,7 @@ A hands-on, copy-paste friendly reference for SSH usage, designed for Linux engi
 7. Security & Authentication Flags
 8. Networking & Advanced Routing
 9. Encryption & Algorithm Selection  
-   - ControlMaster & Connection Reuse
+10. ControlMaster & Connection Reuse
 
 ---
 
